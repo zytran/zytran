@@ -1,7 +1,9 @@
-### ᓚᘏᗢ
+## ᓚᘏᗢ
 
 Computer Engineering Student @ Penn State University
 
+
+### Free NewJeans / NJZ 
 ![njz](assets/njz1.gif)
 
 
