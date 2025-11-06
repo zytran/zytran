@@ -1,12 +1,14 @@
 ## ᓚᘏᗢ
 
 Computer Engineering Student @ Penn State University
-
-
+⠀
+⠀
+⠀
 ### Free NewJeans / NJZ 
 ![njz](assets/njz1.gif)
-
-
+⠀
+⠀
+⠀
 Contact: contact@yoshingo.org
 <!--
 **Zy-Tran/Zy-Tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
