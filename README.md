@@ -2,7 +2,7 @@
 
 Computer Engineering Student @ Penn State University
 
-![njz](https://media.giphy.com/media/bjl4GpQCeGQC950b95/giphy.gif)
+![njz](assets/njz1.gif)
 
 
 Contact: contact@yoshingo.org
