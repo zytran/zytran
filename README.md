@@ -2,7 +2,7 @@
 **Computer Engineering Student @ Penn State University**
 ⠀<br/><br/>
 <br/><br/>
-## Free NewJeans / NJZ 
+
 ![njz](assets/njz1.gif)
 <br/><br/>
 <br/><br/>
